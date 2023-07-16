@@ -1,0 +1,16 @@
+In Python you can declare a variable with only the variable name
+In Python you can get output by using the print() method
+In Python you can enter user input by using input() method
+In Python you can slice a string using []
+In Python you can replace a string using replace() method
+In Python you can access a case in string with []
+In Python you can declare a list with a comma separated value in []
+In Python you can access a list using [] where the value inside the square brackets will be index of the value
+In Python you can set a condition depending on a situation using if....elif...else
+In Python you can get the type of any data using type() function
+In Python you can change type of any data using the type class as a function for ecample: str(), int(), float() etc
+In Python you can declare a dictionary with dict() method
+In Python you can also declare a dictionary with only {}
+In Python you can declare tuples with ()
+In Python you can set a value of any property of the dictionary using dict_name[property_name] = value
+In Python you can itereate through a list, tuple and dictionary using for..of loop
